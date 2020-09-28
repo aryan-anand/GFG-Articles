@@ -9,3 +9,13 @@
 
 
 </ol>
+
+# Improvements
+
+<ol>
+  
+### <li>[Generate n-bit Gray Codes](https://www.geeksforgeeks.org/generate-n-bit-gray-codes/)</li>
+
+</ol>
+
+
